@@ -1,0 +1,53 @@
+#topbar
+{
+    background-color:black;
+    width: 100%;
+    height: 30px;
+}
+#container
+{
+    background-color: green;
+    width: 100%;
+    height: 70px;
+    padding: 5px;
+    padding-bottom: 30px;
+  
+}
+body
+{
+    background-image: url(contact1.jpg);
+    text-align: center;
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+#p
+{
+    color:red;
+    font-size:xx-large;
+    width: 80%;
+    margin-left: 10%;
+}
+#container ul ol
+{
+    text-align: center;
+    color: black;
+    margin-right: 10%;
+    font-size: xx-large;
+}
+#p p{
+    background-color:white;
+    border-radius: 20%;
+}
+body p{
+    background-color: black;
+    width: 40%;
+    margin-left: 30%;
+    padding: 3%;
+}
+#footer
+{
+    background-color: black;
+    width: 100%;
+    height: 60px;
+}

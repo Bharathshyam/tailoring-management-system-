@@ -1,0 +1,21 @@
+#head
+{
+    background-color: black;
+    width: 100%;
+    height: 40px;
+}
+body
+{
+background-image:url(tailor.jpg);
+background-size:100%;
+background-repeat:no-repeat;
+}
+#heading
+{
+    color: aliceblue;
+    text-align: center;
+}
+#form
+{
+    color: aliceblue;
+}

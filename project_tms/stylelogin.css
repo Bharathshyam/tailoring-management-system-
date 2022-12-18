@@ -1,0 +1,46 @@
+body
+{
+    background-image: url(contact1.jpg);
+    width: 100%;
+    height: 20px;   
+    background-size:100%;
+}
+#top
+{
+    background-color:black;
+    width: 30%;
+    height: 200px;
+    margin-left: 35%;
+    margin-top: 13%;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+#top p{
+    color: antiquewhite;
+    text-align: center;
+    font-size: xx-large;
+}
+.a
+{
+    color: aliceblue;
+    margin-left: 10%;
+}
+.b 
+{
+    margin-left: 35%;
+    padding: 1%;
+    width: 30%;
+    text-decoration: none;
+}
+.b:hover
+{
+ background-color: blue;
+}
+#top input
+{
+    margin-left: 3%;
+}
+.b a{
+    text-decoration: none;
+    
+}
